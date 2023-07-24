@@ -32,7 +32,7 @@
 - Que, embora a herança favoreça o reaproveitamento de código, ela pode trazer efeitos colaterais quando não utilizada da maneira correta;
 - Que o Princípio de Substituição de Liskov (LSP) diz que devemos poder substituir classes base por suas classes derivadas em qualquer lugar, sem problema.
 
-## ID
+## I & D
 
 - Que é mais interessante e mais seguro para o nosso código depender de interfaces (classes abstratas, assinaturas de métodos e interfaces em si) do que das implementações de uma classe;
 - Que as interfaces são menos propensas a sofrer mudanças enquanto implementações podem mudar a qualquer momento;
